@@ -6,6 +6,11 @@
   },
   {
     "id": 2,
+    "name": "Dasha",
+    "email": "Dasha@example.com"
+  },
+  {
+    "id": 3,
     "name": "Petya",
     "email": "Petya@example.com"
   }
